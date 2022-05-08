@@ -9,12 +9,3 @@
 | 交流反馈 | <a href="https://qq-group.cf/" target="_blank" >DAC导航交流群</a> | <a href="https://support.qq.com/products/313460" target="_blank" >反馈平台</a> | <a href="http://www.dacbbs.cf/" target="_blank" >DAC论坛</a> | <a href="https://chat.getloli.com/room/@DAC%E5%AF%BC%E8%88%AA%E7%9A%84%E5%8C%BF%E5%90%8D%E7%95%99%E8%A8%80%E6%9D%BF" target="_blank" >匿名留言板</a> | <a href="http://nwu-zmed.mikecrm.com/iSCeBh4" target="_blank" >故障速报</a> |
 | 业务拓展 | <a href="https://nwuzmed.ga/" target="_blank" >DAC导航</a> | <a href="https://nwuzmed.ga/" target="_blank" >共享区</a> | <a href="https://nwuzmed.ga/" target="_blank" >DAC知识库</a> | <a href="https://nwuzmed.ga/" target="_blank" >交流群</a> | <a href="https://nwuzmed.ga/" target="_blank" >交流群</a> |
 
----
----
-
-@import "{{ site.theme }}";
-
-// Hide “This site is open source. Improve this page.”
-.footer {
-  display: none;
-}
